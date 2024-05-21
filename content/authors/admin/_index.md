@@ -10,7 +10,7 @@ last_name: Yoon
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of what
 
 # Organizations/Affiliations
 organizations:
