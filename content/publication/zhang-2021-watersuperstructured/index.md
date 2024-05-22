@@ -5,7 +5,7 @@ authors:
 - Siyuan Fang
 - Hanrui Su
 - Wei Hao
-- Bohak Yoon
+- admin
 - Gyeong S. Hwang
 - Kai Sun
 - Chung-Fu Chen

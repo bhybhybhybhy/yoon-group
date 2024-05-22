@@ -2,7 +2,7 @@
 title: First-Principles Assessment of Anomalous Thermal Degradation of Aqueous 2-Amino-2-methyl-1-propanol
   for CO2 Capture
 authors:
-- Bohak Yoon
+- admin
 - Gyeong S. Hwang
 date: '2021-01-01'
 publishDate: '2024-05-22T00:55:33.421769Z'

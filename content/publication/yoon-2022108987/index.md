@@ -2,7 +2,7 @@
 title: Probing strong steric hindrance effects in aqueous alkanolamines for CO2 capture
   from first principles
 authors:
-- Bohak Yoon
+- admin
 - David C. Calabro
 - Lisa Saunders Baugh
 - Sumathy Raman

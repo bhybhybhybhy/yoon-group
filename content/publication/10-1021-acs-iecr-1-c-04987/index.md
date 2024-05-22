@@ -2,7 +2,7 @@
 title: Facile Carbamic Acid Intermediate Formation in Aqueous Monoethanolamine and
   Its Vital Role in CO2 Capture Processes
 authors:
-- Bohak Yoon
+- admin
 - Gyeong S. Hwang
 date: '2022-01-01'
 publishDate: '2024-05-22T00:55:33.436313Z'

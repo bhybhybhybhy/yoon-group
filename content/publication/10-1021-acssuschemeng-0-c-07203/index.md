@@ -2,7 +2,7 @@
 title: Anomalous Facile Carbamate Formation at High Stripping Temperatures from Carbon
   Dioxide Reaction with 2-Amino-2-methyl-1-propanol in Aqueous Solution
 authors:
-- Bohak Yoon
+- admin
 - Gyeong S. Hwang
 date: '2020-01-01'
 publishDate: '2024-05-22T00:55:33.414399Z'

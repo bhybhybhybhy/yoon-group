@@ -1,7 +1,7 @@
 ---
 title: Elucidating the Molecular Mechanism of CO2 Capture by Amino Acid Ionic Liquids
 authors:
-- Bohak Yoon
+- admin
 - Gregory A. Voth
 date: '2023-01-01'
 publishDate: '2024-05-22T00:55:33.488908Z'

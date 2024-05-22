@@ -2,7 +2,7 @@
 title: On the mechanism of predominant urea formation from thermal degradation of
   CO2-loaded aqueous ethylenediamine
 authors:
-- Bohak Yoon
+- admin
 - Gyeong S. Hwang
 date: '2020-01-01'
 publishDate: '2024-05-22T00:55:33.406750Z'

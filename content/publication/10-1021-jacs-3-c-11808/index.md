@@ -1,7 +1,7 @@
 ---
 title: On the Key Influence of Amino Acid Ionic Liquid Anions on CO2 Capture
 authors:
-- Bohak Yoon
+- admin
 - Sijia Chen
 - Gregory A. Voth
 date: '2024-01-01'

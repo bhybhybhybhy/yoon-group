@@ -2,7 +2,7 @@
 title: 'Molecular mechanisms for thermal degradation of CO2-loaded aqueous monoethanolamine
   solution: a first-principles study'
 authors:
-- Bohak Yoon
+- admin
 - Haley M. Stowe
 - Gyeong S. Hwang
 date: '2019-01-01'

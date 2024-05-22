@@ -2,7 +2,7 @@
 title: 'Intriguing Thermal Degradation Behavior of Aqueous Piperazine for Carbon Dioxide
   Capture: A First-Principles Assessment'
 authors:
-- Bohak Yoon
+- admin
 - Gyeong S. Hwang
 date: '2022-01-01'
 publishDate: '2024-05-22T00:55:33.458677Z'

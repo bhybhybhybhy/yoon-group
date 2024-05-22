@@ -4,11 +4,15 @@ title: An experimental/computational study of steric hindrance effects on CO2 ab
 authors:
 - Qinlan Luo
 - Rui Dong
-- Bohak Yoon
+- admin
 - Hongxia Gao
 - Mengjie Chen
 - Gyeong S. Hwang
 - Zhiwu Liang
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
 date: '2022-01-01'
 publishDate: '2024-05-22T00:55:33.443575Z'
 publication_types:

@@ -3,12 +3,15 @@ title: Combined experimental and computational study on the promising monoethano
   biphasic aqueous solution for CO2 absorption
 authors:
 - Qinlan Luo
-- Bohak Yoon
+- admin
 - Hongxia Gao
 - Juan Lv
 - Gyeong S. Hwang
 - Min Xiao
 - Zhiwu Liang
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 date: '2022-01-01'
 publishDate: '2024-05-22T00:55:33.451113Z'
 publication_types:

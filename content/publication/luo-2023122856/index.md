@@ -9,7 +9,7 @@ authors:
 - Yuanyuan Li
 - Hongxia Gao
 - Gyeong S. Hwang
-- Bohak Yoon
+- admin
 - Teerawat Sema
 - Paitoon Tontiwachwuthikul
 - Peng Luo
