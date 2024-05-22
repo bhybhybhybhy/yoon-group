@@ -11,11 +11,20 @@ sections:
         The Yoon Group
       image:
         filename: welcome.jpg
+        filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
       text: |
         <br>
         
         THE YOON GROUP will be a center of excellence for Multiscale Computational Modeling and Artificial Intelligence research, teaching, and practice towards Materials Design and Discovery since its founding in 2025.
-  
+ 
   - block: collection
     content:
       title: Latest News
