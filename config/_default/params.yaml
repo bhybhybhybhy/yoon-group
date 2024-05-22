@@ -7,8 +7,8 @@
 
 appearance:
   theme: forest #ocean
-#  theme_day: green #forest #minimal
-#  theme_night: green
+  theme_day: forest #forest #minimal
+  theme_night: forest
   font: native
   font_size: L
   color: forest
