@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        The Yoon Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        THE YOON GROUP will be a center of excellence for Multiscale Computational Modeling and Artificial Intelligence research, teaching, and practice towards Materials Design and Discovery since its founding in 2025.
   
   - block: collection
     content:
@@ -45,7 +44,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: Baylor_university_campus.jpg
           filters:
             brightness: 1
           parallax: false
