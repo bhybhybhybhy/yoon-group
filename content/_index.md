@@ -10,7 +10,7 @@ sections:
       title: |
         THE YOON GROUP
       image:
-        filename: welcome2.jpg
+        filename: welcome.jpg
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
@@ -47,7 +47,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: Baylor_university_campus.jpg
+          filename: welcome2.jpg
           filters:
             brightness: 1
           parallax: false
