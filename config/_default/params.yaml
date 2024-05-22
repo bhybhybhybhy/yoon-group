@@ -7,7 +7,7 @@
 
 appearance:
 #  theme: forest #ocean
-  theme_day: orange #forest #minimal
+  theme_day: 1950s #forest #minimal
   theme_night: minimal
   font: native
   font_size: L
