@@ -6,12 +6,12 @@
 # Appearance
 
 appearance:
-  #theme: forest #ocean
-  #theme_day: forest #forest #minimal
-  #theme_night: forest
+#  theme: forest #ocean
+  theme_day: orange #forest #minimal
+  theme_night: minimal
   font: native
   font_size: L
-  color: green
+#  color: green
 
 # SEO
 
