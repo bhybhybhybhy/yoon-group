@@ -6,12 +6,12 @@
 # Appearance
 
 appearance:
-  theme: ocean
+  theme: red-miminal #ocean
 #  theme_day: ocean #forest #minimal
 #  theme_night:
   font: native
   font_size: L
-#  color: ocean
+#  color: red-minimal
 
 # SEO
 
