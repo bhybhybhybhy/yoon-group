@@ -10,7 +10,7 @@ last_name: Yoon
 superuser: true
 
 # Role/position
-role: Incoming Assistant Professor of Computational Materials Design
+role: (Incoming) Assistant Professor of Computational Materials Design
 
 # Organizations/Affiliations
 organizations:
