@@ -9,7 +9,7 @@ appearance:
 #  theme: forest #ocean
   theme_day: 1950s #forest #minimal
   theme_night: minimal
-  font: minimal #native
+  font: native #minimal
   font_size: L
 #  color: green
 

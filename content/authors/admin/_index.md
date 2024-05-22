@@ -10,7 +10,7 @@ last_name: Yoon
 superuser: true
 
 # Role/position
-role: (Incoming) Assistant Professor of Computational Materials Design
+role: (Incoming) Assistant Professor
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computational modeling in theoretical chemistry, materials science & engineering, statistical mechanics, and artificial intelligence.
+bio: My research interests include multiscale computational modeling in theoretical chemistry, materials science & engineering, statistical mechanics, and artificial intelligence.
 
 interests:
   - Computational Modeling
