@@ -33,8 +33,7 @@ tags = ["academic",
         "technical",
         "slide",
         "ocean",
-        "red-minimal",
-        "green"
+        "red-minimal"
         ]
 features = ["page builder", "widgets", "themes", "search", "research publication system", "filterable portfolio",
             "blog", "create courses", "talks", "events", "slides", "gallery", "contact form"]
