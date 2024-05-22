@@ -10,7 +10,7 @@ sections:
       title: |
         THE YOON GROUP
       image:
-        filename: welcome.jpg
+        filename: welcome2.jpg
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
