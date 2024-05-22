@@ -2,7 +2,7 @@
 name = "red-minimal"
 
 # Is theme light or dark?
-#light = true
+light = true
 
 # Primary
 primary = "#BE0000"
