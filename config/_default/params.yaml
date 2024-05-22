@@ -6,11 +6,11 @@
 # Appearance
 
 appearance:
-  theme_day: ocean #forest #minimal
+  theme_day: Ocean #forest #minimal
   theme_night:
   font: native
   font_size: L
-  color: ocean
+  color: Ocean
 
 # SEO
 
