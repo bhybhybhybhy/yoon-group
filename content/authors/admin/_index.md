@@ -18,12 +18,14 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include computational modeling in theoretical chemistry, materials science & engineering, statistical mechanics, and artificial intelligence.
 
 interests:
+  - Computational Modeling
+  - Statistical Mechanics
+  - Theoretical Chemistry
+  - Materials Design and Discovery
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
 education:
   courses:
@@ -61,15 +63,16 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'bohakyoon@gmail.com'
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigator
+ # - Researchers
 ---
 
-Bohak Yoon is an incoming assistant professor in the Department of Chemistry and Biochemistry at Baylor University. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Bohak Yoon is an incoming Assistant Professor of Computational Materials Design in the Department of Chemistry and Biochemistry at Baylor University. His research interests include multiscale modeling, computational and theoretical chemistry, materials design and discovery, statistical mechanics, and artificial intelligence. He leads THE YOON GROUP, which develops and applies new multiscale computational modeling and theory with materials design and discovery towards energy and sustainability challenges.

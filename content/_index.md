@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        The Yoon Group
+        THE YOON GROUP
       image:
         filename: welcome.jpg
       spacing:
@@ -19,24 +19,24 @@ sections:
         
         THE YOON GROUP will be a center of excellence for Multiscale Computational Modeling and Artificial Intelligence research, teaching, and practice towards Materials Design and Discovery since its founding in 2025.
  
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
+#  - block: collection
+#    content:
+#      title: Latest News
+#      subtitle:
+#      text:
+#      count: 5
+#      filters:
+#        author: ''
+#        category: ''
+#        exclude_featured: false
+#        publication_type: ''
+#        tag: ''
+#      offset: 0
+#      order: desc
+#      page_type: post
+#    design:
+#      view: card
+#      columns: '1'
   
   - block: markdown
     content:
@@ -58,18 +58,18 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
 
-  - block: collection
-    content:
-      title: Latest Preprints
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article'
-    design:
-      view: citation
-      columns: '1'
+#  - block: collection
+#    content:
+#      title: Latest Preprints
+#      text: ""
+#      count: 5
+#      filters:
+#        folders:
+#          - publication
+#        publication_type: 'article'
+#    design:
+#      view: citation
+#      columns: '1'
 
   - block: markdown
     content:
